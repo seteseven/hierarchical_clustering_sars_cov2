@@ -1,3 +1,11 @@
+## ⚠️ Aviso Importante
+
+Este repositório foi desenvolvido **exclusivamente para fins de estudo, aprendizado e prática** em bioinformática e ciência de dados. Os métodos, análises e resultados apresentados **não devem ser utilizados para aplicações clínicas, diagnósticas ou decisões médicas**.
+
+O projeto tem caráter **exploratório e educacional**, servindo como base para experimentação com técnicas de aprendizado de máquina aplicadas a sequências biológicas. As interpretações biológicas não substituem análises filogenéticas formais ou validações experimentais.
+
+Utilize este material como referência acadêmica e para fins de aprendizado.
+
 # 🧬 Clustering Hierárquico de Sequências Genômicas do SARS-CoV-2
 
 ##  Visão Geral
